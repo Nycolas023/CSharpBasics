@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\023\\source\\repos\\somaDeDoisNumeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E728065-20F2-443D-8E0A-010C9BCEE868}|somaDeDoisNumeros\\somaDeDoisNumeros.csproj|c:\\users\\023\\source\\repos\\somadedoisnumeros\\somadedoisnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E728065-20F2-443D-8E0A-010C9BCEE868}|somaDeDoisNumeros\\somaDeDoisNumeros.csproj|solutionrelative:somadedoisnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\023\\source\\repos\\somaDeDoisNumeros\\somaDeDoisNumeros\\Program.cs",
+              "RelativeDocumentMoniker": "somaDeDoisNumeros\\Program.cs",
+              "ToolTip": "C:\\Users\\023\\source\\repos\\somaDeDoisNumeros\\somaDeDoisNumeros\\Program.cs",
+              "RelativeToolTip": "somaDeDoisNumeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:47:56.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

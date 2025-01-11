@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\023\\source\\repos\\POOConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E076E-295D-432D-9660-ACA623B18768}|POOConsole\\POOConsole.csproj|c:\\users\\023\\source\\repos\\pooconsole\\pooconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E076E-295D-432D-9660-ACA623B18768}|POOConsole\\POOConsole.csproj|solutionrelative:pooconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6E076E-295D-432D-9660-ACA623B18768}|POOConsole\\POOConsole.csproj|c:\\users\\023\\source\\repos\\pooconsole\\pooconsole\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6E076E-295D-432D-9660-ACA623B18768}|POOConsole\\POOConsole.csproj|solutionrelative:pooconsole\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\023\\source\\repos\\POOConsole\\POOConsole\\Pessoa.cs",
+              "RelativeDocumentMoniker": "POOConsole\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\023\\source\\repos\\POOConsole\\POOConsole\\Pessoa.cs",
+              "RelativeToolTip": "POOConsole\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:45:44.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\023\\source\\repos\\POOConsole\\POOConsole\\Program.cs",
+              "RelativeDocumentMoniker": "POOConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\023\\source\\repos\\POOConsole\\POOConsole\\Program.cs",
+              "RelativeToolTip": "POOConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:24:19.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

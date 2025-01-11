@@ -1,0 +1,14 @@
+C:\Users\023\source\repos\treinoMusical\treinoMusical\bin\Debug\net9.0\treinoMusical.exe
+C:\Users\023\source\repos\treinoMusical\treinoMusical\bin\Debug\net9.0\treinoMusical.deps.json
+C:\Users\023\source\repos\treinoMusical\treinoMusical\bin\Debug\net9.0\treinoMusical.runtimeconfig.json
+C:\Users\023\source\repos\treinoMusical\treinoMusical\bin\Debug\net9.0\treinoMusical.dll
+C:\Users\023\source\repos\treinoMusical\treinoMusical\bin\Debug\net9.0\treinoMusical.pdb
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\treinoMusical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\treinoMusical.AssemblyInfoInputs.cache
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\treinoMusical.AssemblyInfo.cs
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\treinoMusical.csproj.CoreCompileInputs.cache
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\treinoMusical.dll
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\refint\treinoMusical.dll
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\treinoMusical.pdb
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\treinoMusical.genruntimeconfig.cache
+C:\Users\023\source\repos\treinoMusical\treinoMusical\obj\Debug\net9.0\ref\treinoMusical.dll

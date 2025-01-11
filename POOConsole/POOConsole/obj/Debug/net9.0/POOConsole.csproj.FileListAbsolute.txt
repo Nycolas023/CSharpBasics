@@ -1,0 +1,14 @@
+C:\Users\023\source\repos\POOConsole\POOConsole\bin\Debug\net9.0\POOConsole.exe
+C:\Users\023\source\repos\POOConsole\POOConsole\bin\Debug\net9.0\POOConsole.deps.json
+C:\Users\023\source\repos\POOConsole\POOConsole\bin\Debug\net9.0\POOConsole.runtimeconfig.json
+C:\Users\023\source\repos\POOConsole\POOConsole\bin\Debug\net9.0\POOConsole.dll
+C:\Users\023\source\repos\POOConsole\POOConsole\bin\Debug\net9.0\POOConsole.pdb
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\POOConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\POOConsole.AssemblyInfoInputs.cache
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\POOConsole.AssemblyInfo.cs
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\POOConsole.csproj.CoreCompileInputs.cache
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\POOConsole.dll
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\refint\POOConsole.dll
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\POOConsole.pdb
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\POOConsole.genruntimeconfig.cache
+C:\Users\023\source\repos\POOConsole\POOConsole\obj\Debug\net9.0\ref\POOConsole.dll

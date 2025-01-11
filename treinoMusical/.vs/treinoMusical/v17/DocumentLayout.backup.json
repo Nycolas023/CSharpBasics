@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\023\\source\\repos\\treinoMusical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C2C2AE-8290-4CEA-BB7E-E2F01A274E25}|treinoMusical\\treinoMusical.csproj|c:\\users\\023\\source\\repos\\treinomusical\\treinomusical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C2C2AE-8290-4CEA-BB7E-E2F01A274E25}|treinoMusical\\treinoMusical.csproj|solutionrelative:treinomusical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\023\\source\\repos\\treinoMusical\\treinoMusical\\Program.cs",
+              "RelativeDocumentMoniker": "treinoMusical\\Program.cs",
+              "ToolTip": "C:\\Users\\023\\source\\repos\\treinoMusical\\treinoMusical\\Program.cs",
+              "RelativeToolTip": "treinoMusical\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:34:55.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

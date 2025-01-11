@@ -1,0 +1,14 @@
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\bin\Debug\net9.0\somaDeDoisNumeros.exe
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\bin\Debug\net9.0\somaDeDoisNumeros.deps.json
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\bin\Debug\net9.0\somaDeDoisNumeros.runtimeconfig.json
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\bin\Debug\net9.0\somaDeDoisNumeros.dll
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\bin\Debug\net9.0\somaDeDoisNumeros.pdb
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\somaDeDoisNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\somaDeDoisNumeros.AssemblyInfoInputs.cache
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\somaDeDoisNumeros.AssemblyInfo.cs
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\somaDeDoisNumeros.csproj.CoreCompileInputs.cache
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\somaDeDoisNumeros.dll
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\refint\somaDeDoisNumeros.dll
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\somaDeDoisNumeros.pdb
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\somaDeDoisNumeros.genruntimeconfig.cache
+C:\Users\023\source\repos\somaDeDoisNumeros\somaDeDoisNumeros\obj\Debug\net9.0\ref\somaDeDoisNumeros.dll
